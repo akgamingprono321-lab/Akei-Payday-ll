@@ -1,1 +1,1 @@
-window.API_URL="http://localhost:3000";
+window.API_URL="https://akei-payday-ll-production.up.railway.app";
